@@ -36,6 +36,7 @@ const skills = [
   { title: 'Methodology', items: 'Agile Scrum, Component-Based Architecture' },
 ]
 
+
 const experienceBullets = [
   'Learned React.js within one month to deliver GnieStudio Phase 4, demonstrating rapid adaptability.',
   'Developed reusable front-end frameworks and UI component libraries using Angular.',
