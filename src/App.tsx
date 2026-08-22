@@ -13,6 +13,7 @@ type SectionId =
 
 type Point = { x: number; y: number }
 
+
 const sections: Array<{ id: SectionId; label: string }> = [
   { id: 'hero', label: 'Home' },
   { id: 'about', label: 'About' },
